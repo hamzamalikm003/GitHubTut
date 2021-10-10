@@ -13,5 +13,21 @@ li{
     margin-top: 5px;
 }
 img{
-    align-content: center;
+    width: 100%;
+    padding: 20px;
+    height: 400px;
 }
+ul{
+    list-style-type: none;
+}
+p{
+    color: #fff;
+}
+.link {
+    text-decoration: none;
+  }
+  button{
+      background-color: #5c5230c4;
+      color: #fff;
+  }
+  
